@@ -1,0 +1,10 @@
+.wrapper {
+    margin: 0 auto;
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+    width: 70%;
+}
+
+.heading {
+    text-align: center;
+    color: black;
+}
